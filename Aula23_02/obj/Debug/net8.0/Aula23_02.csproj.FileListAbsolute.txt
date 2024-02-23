@@ -1,0 +1,14 @@
+D:\Victor\Análise OO (AO)\Aula23_02\bin\Debug\net8.0\Aula23_02.exe
+D:\Victor\Análise OO (AO)\Aula23_02\bin\Debug\net8.0\Aula23_02.deps.json
+D:\Victor\Análise OO (AO)\Aula23_02\bin\Debug\net8.0\Aula23_02.runtimeconfig.json
+D:\Victor\Análise OO (AO)\Aula23_02\bin\Debug\net8.0\Aula23_02.dll
+D:\Victor\Análise OO (AO)\Aula23_02\bin\Debug\net8.0\Aula23_02.pdb
+D:\Victor\Análise OO (AO)\Aula23_02\obj\Debug\net8.0\Aula23_02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Victor\Análise OO (AO)\Aula23_02\obj\Debug\net8.0\Aula23_02.AssemblyInfoInputs.cache
+D:\Victor\Análise OO (AO)\Aula23_02\obj\Debug\net8.0\Aula23_02.AssemblyInfo.cs
+D:\Victor\Análise OO (AO)\Aula23_02\obj\Debug\net8.0\Aula23_02.csproj.CoreCompileInputs.cache
+D:\Victor\Análise OO (AO)\Aula23_02\obj\Debug\net8.0\Aula23_02.dll
+D:\Victor\Análise OO (AO)\Aula23_02\obj\Debug\net8.0\refint\Aula23_02.dll
+D:\Victor\Análise OO (AO)\Aula23_02\obj\Debug\net8.0\Aula23_02.pdb
+D:\Victor\Análise OO (AO)\Aula23_02\obj\Debug\net8.0\Aula23_02.genruntimeconfig.cache
+D:\Victor\Análise OO (AO)\Aula23_02\obj\Debug\net8.0\ref\Aula23_02.dll
